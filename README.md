@@ -2,7 +2,7 @@
 
 This project is a Chess Board Identifier that processes a given image of a chessboard, detects the board and pieces, and provides statistics for both White and Black teams. The program identifies the position of each piece and outputs their counts and locations.
 
-![imagem](https://github.com/user-attachments/assets/69907ef9-8f13-4013-bc21-6b186864d937)
+![imagem](https://github.com/user-attachments/assets/10578680-44b5-4ffe-8754-7d5a4581db5d)
 
 ## **Features**
 - Detects and extracts the chessboard from an image.
@@ -56,10 +56,10 @@ You can manipulate the pixels to do certain things, such as
 - Histograms
 
 ## Examples:
+![Captura de ecrã 2025-03-15 230520](https://github.com/user-attachments/assets/8d1783db-5320-4f56-b508-209f52d52948)
+![Captura de ecrã 2025-03-15 230508](https://github.com/user-attachments/assets/09303307-b046-40cf-905a-391343f11e0a)
+![Captura de ecrã 2025-03-15 230655](https://github.com/user-attachments/assets/d78f0e79-c7ec-4592-babd-ddb56b1b3e06)
+![Captura de ecrã 2025-03-15 230707](https://github.com/user-attachments/assets/71704a2f-fb24-45ad-b071-cec97235b418)
+![Captura de ecrã 2025-03-15 230723](https://github.com/user-attachments/assets/8a5647ef-1359-4f3f-ad5e-c031c0028359)
+![Captura de ecrã 2025-03-15 230645](https://github.com/user-attachments/assets/2de58c2c-d6b1-4157-8ea6-699a8108fb64)
 
-![Captura de ecrã 2025-03-15 230508](https://github.com/user-attachments/assets/9561af79-8c6e-4d98-ab00-465a5e65f6f4)
-![Captura de ecrã 2025-03-15 230520](https://github.com/user-attachments/assets/7bedd24d-4a7c-4e4d-9a2c-3c469481fa01)
-![Captura de ecrã 2025-03-15 230655](https://github.com/user-attachments/assets/f4670f72-4b74-4428-bdba-fc8c426f1888)
-![Captura de ecrã 2025-03-15 230645](https://github.com/user-attachments/assets/c42ede3a-c50c-48b2-a128-f31f66a45ed0)
-![Captura de ecrã 2025-03-15 230707](https://github.com/user-attachments/assets/2865f7c4-7070-4ed5-94f7-af5cedd67d1f)
-![Captura de ecrã 2025-03-15 230723](https://github.com/user-attachments/assets/11bc552b-f90d-4544-8e1b-616e4362587f)

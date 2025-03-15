@@ -63,3 +63,7 @@ You can manipulate the pixels to do certain things, such as
 ![Captura de ecrã 2025-03-15 230723](https://github.com/user-attachments/assets/8a5647ef-1359-4f3f-ad5e-c031c0028359)
 ![Captura de ecrã 2025-03-15 230645](https://github.com/user-attachments/assets/2de58c2c-d6b1-4157-8ea6-699a8108fb64)
 
+## This project was developed by:
+- Rodrigo Dias - a22205897
+- Miguel Mela - a21905215
+- Rui Ferreira - a22207191

@@ -65,5 +65,5 @@ You can manipulate the pixels to do certain things, such as
 
 ## This project was developed by:
 - Rodrigo Dias - a22205897
-- Miguel Mela - a21905215
+- Miguel Melo - a21905215
 - Rui Ferreira - a22207191
